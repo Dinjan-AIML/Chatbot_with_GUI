@@ -1,25 +1,26 @@
-# Chatbot_with_GUI
+# Memory-Bot 
 
-This is a simple chatbot project that utilizes the OpenAI API to generate responses to user input. The chatbot is built using Python and interacts with the OpenAI API to generate responses based on the given prompt.
+# Features
+A typical chatbot which can,
+- Memorize the conversation
+- Save the conversation
+- Download the conversation
 
-## Requirements
+# Similar to:
 
-- Python 3.x
-- OpenAI API key (sign up at https://openai.com to get your API key)
+Personal MemoryBot : Memory to your Personal ChatBot  
 
-## Installation
+How to run this bot?
+1. open terminal
+2. run command --> streamlit run memorybot.py
+3. It will redirect to your browser
+# Resources
 
-1. Clone the repository:
+[Open AI](https://openai.com/) |
+[LangChain](https://langchain.readthedocs.io/en/latest/index.html) | 
+[Streamlit](https://streamlit.io/) | 
+[DataButton](https://www.databutton.io/)
 
-   ```bash
-   git clone https://github.com/your-username/chatbot-project.git
 
-2. Install the required dependencies:
+ 
 
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the chatbot script:
-
-    ```bash
-    python chatbot.py
