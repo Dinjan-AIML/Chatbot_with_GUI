@@ -18,7 +18,7 @@ This is a simple chatbot project that utilizes the OpenAI API to generate respon
 
   ```bash
   pip install -r requirements.txt
-```
+   ```
 
 3. Run the chatbot script:
 
