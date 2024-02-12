@@ -18,12 +18,15 @@ This is a simple chatbot project that utilizes the OpenAI API to generate respon
 
   ```bash
   pip install -r requirements.txt
+```
 
 3. Run the chatbot script:
 
-   ```bash
+    ```bash
    python chatbot.py
+   ```
 
+## Resources
 [Open AI](https://openai.com/) |
 [LangChain](https://langchain.readthedocs.io/en/latest/index.html) | 
 [Streamlit](https://streamlit.io/) | 
