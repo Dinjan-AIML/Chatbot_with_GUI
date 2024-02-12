@@ -29,8 +29,8 @@ This is a simple chatbot project that utilizes the OpenAI API to generate respon
 ## Resources
 [Open AI](https://openai.com/) |
 [LangChain](https://langchain.readthedocs.io/en/latest/index.html) | 
-[Streamlit](https://streamlit.io/) | 
-[DataButton](https://www.databutton.io/)
+[Streamlit](https://streamlit.io/) 
+
 
 
  
