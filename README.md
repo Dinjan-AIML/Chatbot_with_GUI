@@ -11,21 +11,21 @@ This is a simple chatbot project that utilizes the OpenAI API to generate respon
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/chatbot-project.git
-```
+  ```bash
+  git clone https://github.com/your-username/chatbot-project.git
+  ```
 
 2. Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 3. Run the chatbot script:
 
-```bash
-python chatbot.py
-```
+  ```bash
+  python chatbot.py
+  ```
 
 ## Resources
 [Open AI](https://openai.com/) |
